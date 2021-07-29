@@ -8,3 +8,5 @@
 #2_8
 #2_9	updated for subtask #5
 #2_10	updated for subtask #5
+#2_9	updated for subtask #4
+#2_10	updated for subtask #4
