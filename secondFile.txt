@@ -6,5 +6,5 @@
 #2_6
 #2_7
 #2_8
-#2_9
-#2_10
+#2_9	updated for subtask #5
+#2_10	updated for subtask #5
